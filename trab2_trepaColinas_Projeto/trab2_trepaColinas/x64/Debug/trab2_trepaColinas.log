@@ -1,0 +1,4 @@
+﻿  utils.c
+c:\users\edu_f\source\workspaces\nova pasta\trab2_trepacolinas_projeto\trab2_trepacolinas\utils.c(119): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  trab2_trepaColinas.vcxproj -> C:\Users\edu_f\Source\Workspaces\Nova pasta\trab2_trepaColinas_Projeto\x64\Debug\trab2_trepaColinas.exe
+  trab2_trepaColinas.vcxproj -> C:\Users\edu_f\Source\Workspaces\Nova pasta\trab2_trepaColinas_Projeto\x64\Debug\trab2_trepaColinas.pdb (Full PDB)

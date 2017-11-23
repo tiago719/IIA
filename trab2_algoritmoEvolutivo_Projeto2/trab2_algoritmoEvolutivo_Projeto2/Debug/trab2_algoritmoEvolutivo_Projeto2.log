@@ -1,0 +1,12 @@
+﻿  utils.c
+c:\users\edu_f\source\workspaces\nova pasta\trab2_algoritmoevolutivo_projeto2\trab2_algoritmoevolutivo_projeto2\utils.c(55): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\edu_f\source\workspaces\nova pasta\trab2_algoritmoevolutivo_projeto2\trab2_algoritmoevolutivo_projeto2\utils.c(62): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\edu_f\source\workspaces\nova pasta\trab2_algoritmoevolutivo_projeto2\trab2_algoritmoevolutivo_projeto2\utils.c(38): warning C4477: 'fscanf' : format string '%f' requires an argument of type 'float *', but variadic argument 3 has type 'int *'
+c:\users\edu_f\source\workspaces\nova pasta\trab2_algoritmoevolutivo_projeto2\trab2_algoritmoevolutivo_projeto2\utils.c(21): warning C4101: 'j': unreferenced local variable
+c:\users\edu_f\source\workspaces\nova pasta\trab2_algoritmoevolutivo_projeto2\trab2_algoritmoevolutivo_projeto2\utils.c(21): warning C4101: 'i': unreferenced local variable
+  main.c
+c:\users\edu_f\source\workspaces\nova pasta\trab2_algoritmoevolutivo_projeto2\trab2_algoritmoevolutivo_projeto2\main.c(39): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\edu_f\source\workspaces\nova pasta\trab2_algoritmoevolutivo_projeto2\trab2_algoritmoevolutivo_projeto2\main.c(49): warning C4101: 'temp': unreferenced local variable
+  Generating Code...
+  trab2_algoritmoEvolutivo_Projeto2.vcxproj -> C:\Users\edu_f\Source\Workspaces\Nova pasta\trab2_algoritmoEvolutivo_Projeto2\Debug\trab2_algoritmoEvolutivo_Projeto2.exe
+  trab2_algoritmoEvolutivo_Projeto2.vcxproj -> C:\Users\edu_f\Source\Workspaces\Nova pasta\trab2_algoritmoEvolutivo_Projeto2\Debug\trab2_algoritmoEvolutivo_Projeto2.pdb (Full PDB)
